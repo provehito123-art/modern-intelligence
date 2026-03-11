@@ -31,7 +31,7 @@
     background: var(--bg);
     color: var(--text);
     font-family: 'DM Sans', sans-serif;
-    font-size: 14px;
+    font-size: 10px;
     min-height: 100vh;
     overflow-x: hidden;
   }
